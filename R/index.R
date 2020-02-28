@@ -1,3 +1,4 @@
+#' @export
 covid19_index <- function() {
   base_path <- "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports"
 
