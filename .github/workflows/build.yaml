@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v1
       - uses: r-lib/actions/setup-r@master
       - name: Install dependencies
-        run: Rscript -e 'install.packages(c("xml2", "rvest"))'
+        run: Rscript -e 'install.packages(c("xml2", "rvest", "pins"))'
       - name: Build dataset
         working-directory: ${{runner.workspace}}
         run: Rscript -e 'source("ci/Build.R")'
