@@ -11,4 +11,5 @@ jobs:
       - name: Install dependencies
         run: Rscript -e 'install.packages(c("xml2", "rvest"))'
       - name: Build dataset
+        working-directory: ${{runner.workspace}}
         run: Rscript -e 'source("ci/Build.R")'
