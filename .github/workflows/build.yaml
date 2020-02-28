@@ -11,7 +11,7 @@ jobs:
       - name: Configure java
         run: sudo R CMD javareconf
       - name: Install dependencies
-        run: Rscript -e 'install.packages(c("xml2", "rvest", "pins", "tabulizer"))'
+        run: Rscript -e 'install.packages(c("curl", "httr", "xml2", "rvest", "pins", "tabulizer"))'
       - name: Build dataset
         working-directory: ${{github.workspace}}
         run: Rscript -e 'source("ci/build.R")'
