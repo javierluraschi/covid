@@ -4,12 +4,14 @@ on: [push]
 
 jobs:
   build:
-    runs-on: ubuntu-16.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
       - uses: r-lib/actions/setup-r@master
       - name: Configure java
         run: sudo R CMD javareconf
+      - name: Install curl
+        run: sudo apt-get install libcurl4-openssl-dev
       - name: Install dependencies
         run: Rscript -e 'install.packages(c("curl", "httr", "xml2", "rvest", "pins", "tabulizer"))'
       - name: Build dataset
