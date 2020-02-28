@@ -8,9 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - uses: r-lib/actions/setup-r@master
-      - name: Prepare tokens
-        env:
-          GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
       - name: Configure java
         run: sudo R CMD javareconf
       - name: Install curl
@@ -20,3 +17,5 @@ jobs:
       - name: Build dataset
         working-directory: ${{github.workspace}}
         run: Rscript -e 'source("ci/build.R")'
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
