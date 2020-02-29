@@ -373,3 +373,8 @@
   rows: 3
   cols: 3
   type: table
+- path: covid-20200128-1
+  name: covid-20200128-1
+  rows: 21
+  cols: 3
+  type: table
