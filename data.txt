@@ -443,3 +443,8 @@
   rows: 13
   cols: 1
   type: table
+- path: covid-20200122-1
+  name: covid-20200122-1
+  rows: 6
+  cols: 2
+  type: table
