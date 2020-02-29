@@ -16,7 +16,7 @@ jobs:
       - name: Install curl
         run: sudo apt-get install libcurl4-openssl-dev
       - name: Install dependencies
-        run: Rscript -e 'install.packages(c("curl", "httr", "xml2", "rvest", "pins", "tabulizer"))'
+        run: Rscript -e 'install.packages(c("curl", "httr", "xml2", "rvest", "pins", "tabulizer", "tibble"))'
       - name: Build dataset
         working-directory: ${{github.workspace}}
         run: Rscript -e 'source("ci/build.R")'
