@@ -1,4 +1,5 @@
-source("R/index.R")
+sapply(dir("R", full.names = T), source)
+
 index <- covid19_index()
 
 report <- NULL
