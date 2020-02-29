@@ -1,12 +1,12 @@
 COVID Updates
 ================
 
-This repo provides updates, every 15 minutes, from the [World Helath
+This repo provides hourly updates from the [World Helath
 Organization](https://www.who.int/) [Coronavirus disease (COVID-2019)
 situation
 reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
-as [pins](https://pins.rstudio.com) and
-[CSVs](https://github.com/javierluraschi/covid/tree/datasets).
+in [CSV](https://github.com/javierluraschi/covid/tree/datasets) and
+[pins](https://pins.rstudio.com) format.
 
 From R, you can query the list of available datasets as follows:
 
