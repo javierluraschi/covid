@@ -463,3 +463,8 @@
   rows: 11
   cols: 3
   type: table
+- path: covid-index
+  name: covid-index
+  rows: 45
+  cols: 1
+  type: table
