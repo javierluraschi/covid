@@ -1,0 +1,5 @@
+- path: covid-20200228-1
+  name: covid-20200228-1
+  rows: 11
+  cols: 3
+  type: table
