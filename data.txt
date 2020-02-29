@@ -348,3 +348,8 @@
   rows: 36
   cols: 2
   type: table
+- path: covid-20200201-3
+  name: covid-20200201-3
+  rows: 33
+  cols: 3
+  type: table
