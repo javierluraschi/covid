@@ -468,3 +468,8 @@
   rows: 45
   cols: 1
   type: table
+- path: covid-20200229-1
+  name: covid-20200229-1
+  rows: 3
+  cols: 1
+  type: table
