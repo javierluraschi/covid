@@ -6,7 +6,7 @@ index_processed <- c()
 index <- covid19_index()
 
 if (nrow(pins::pin_find("covid-index", board = "github")) > 0) {
-  index_processed <- pins::pin_get("covid-index", board = "github")
+  index_processed <- pins::pin_get("covid-index", board = "github")$processed
 }
 
 index <- index[!index %in% index_processed]
@@ -25,3 +25,5 @@ for (entry in index) {
     pins::pin(data, name = name, board = "github")
   }
 }
+
+pins::pin(data.frame(processed = index, stringsAsFactors = FALSE), name = "covid-index", board = "github")
