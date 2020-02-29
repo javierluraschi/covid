@@ -1,0 +1,26 @@
+---
+title: "COVID Updates"
+output: github_document
+---
+
+This repo provides updates, every 15 minutes, from the [World Helath Organization](https://www.who.int/) [Coronavirus disease (COVID-2019) situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/) as [pins](https://pins.rstudio.com) and [CSVs](https://github.com/javierluraschi/covid/tree/datasets).
+
+From R, you can query the list of available datasets as follows:
+
+```{r}
+library(pins)
+
+board_register_datatxt("https://raw.githubusercontent.com/javierluraschi/covid/datasets/data.txt", "covid")
+
+pin_find(board = "covid")
+```
+
+You can then retrieve specific tables from the daily reports as follows:
+
+```{r}
+pin_get("covid-20200227-1", board = "covid")
+```
+
+Do notice that this dataset come straight from the PDF files, while the data is kept up-to-date by parsing it as soon as it's released, the headers still need to be cleaned up and some tables joined together.
+
+The CSV files can be found under [covid/tree/datasets](https://github.com/javierluraschi/covid/tree/datasets), a cleaned up dataset can be found in other repos like [ramikrispin/coronavirus-csv](https://github.com/RamiKrispin/coronavirus-csv).
