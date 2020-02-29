@@ -9,9 +9,9 @@ if (nrow(pins::pin_find("covid-index", board = "github")) > 0) {
   index_processed <- pins::pin_get("covid-index", board = "github")$processed
 }
 
-index <- index[!index %in% index_processed]
+index_todo <- index[!index %in% index_processed]
 
-for (entry in index) {
+for (entry in index_todo) {
   report_date <- gsub(".*situation-reports/|\\-.*", "", entry)
   tables <- covid19_parse(entry)
 
