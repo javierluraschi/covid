@@ -168,3 +168,8 @@
   rows: 40
   cols: 10
   type: table
+- path: covid-20200216-2
+  name: covid-20200216-2
+  rows: 37
+  cols: 7
+  type: table
