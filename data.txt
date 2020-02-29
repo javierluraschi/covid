@@ -465,6 +465,6 @@
   type: table
 - path: covid-index
   name: covid-index
-  rows: 45
+  rows: 0
   cols: 1
   type: table
