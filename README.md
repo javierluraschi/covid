@@ -61,4 +61,40 @@ headers still need to be cleaned up and some tables joined together.
 The CSV files can be found under
 [covid/tree/datasets](https://github.com/javierluraschi/covid/tree/datasets),
 a cleaned up dataset can be found in other repos like
-[ramikrispin/coronavirus-csv](https://github.com/RamiKrispin/coronavirus-csv).
+[ramikrispin/coronavirus-csv](https://github.com/RamiKrispin/coronavirus-csv)
+and downloaded with pins as
+follows:
+
+``` r
+covid <- pin("https://raw.githubusercontent.com/RamiKrispin/coronavirus-csv/master/coronavirus_dataset.csv") %>%
+  read.csv() %>% tibble::as_tibble() %>% print()
+```
+
+    ## # A tibble: 2,309 x 7
+    ##    Province.State Country.Region   Lat  Long date       cases type     
+    ##    <fct>          <fct>          <dbl> <dbl> <fct>      <int> <fct>    
+    ##  1 ""             Japan           36    138  2020-01-22     2 confirmed
+    ##  2 ""             South Korea     36    128  2020-01-22     1 confirmed
+    ##  3 ""             Thailand        15    101  2020-01-22     2 confirmed
+    ##  4 Anhui          Mainland China  31.8  117. 2020-01-22     1 confirmed
+    ##  5 Beijing        Mainland China  40.2  116. 2020-01-22    14 confirmed
+    ##  6 Chongqing      Mainland China  30.1  108. 2020-01-22     6 confirmed
+    ##  7 Fujian         Mainland China  26.1  118. 2020-01-22     1 confirmed
+    ##  8 Guangdong      Mainland China  23.3  113. 2020-01-22    26 confirmed
+    ##  9 Guangxi        Mainland China  23.8  109. 2020-01-22     2 confirmed
+    ## 10 Guizhou        Mainland China  26.8  107. 2020-01-22     1 confirmed
+    ## # … with 2,299 more rows
+
+``` r
+library(dplyr, warn.conflicts = FALSE)
+library(ggplot2)
+
+filter(covid, type == "confirmed") %>%
+  group_by(date) %>%
+  summarise(confirmed = sum(cases)) %>%
+  arrange(date) %>%
+  mutate(date = as.Date(date), confirmed = cumsum(confirmed)) %>%
+  ggplot(aes(x=date, y=confirmed)) + geom_line() + theme_light()
+```
+
+![](README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
