@@ -26,4 +26,6 @@ for (entry in index_todo) {
   }
 }
 
-pins::pin(data.frame(processed = index, stringsAsFactors = FALSE), name = "covid-index", board = "github")
+if (length(index_todo) > 0) {
+  pins::pin(data.frame(processed = index, stringsAsFactors = FALSE), name = "covid-index", board = "github")
+}
