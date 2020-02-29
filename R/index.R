@@ -9,5 +9,5 @@ covid19_index <- function() {
 
   links <- paste0("https://www.who.int", rvest::html_attr(pdfs, "href"))
 
-  data.frame(link = links, stringsAsFactors = FALSE)
+  links
 }
