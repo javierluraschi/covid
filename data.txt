@@ -575,8 +575,8 @@
   type: table
 - path: covid-20200305-4
   name: covid-20200305-4
-  rows: 3
-  cols: 5
+  rows: 51
+  cols: 9
   type: table
 - path: covid-20200306-1
   name: covid-20200306-1
