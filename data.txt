@@ -586,7 +586,7 @@
 - path: covid-20200306-2
   name: covid-20200306-2
   rows: 53
-  cols: 7
+  cols: 8
   type: table
 - path: covid-20200306-3
   name: covid-20200306-3
