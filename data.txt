@@ -710,8 +710,8 @@
   type: table
 - path: covid-20200311-3
   name: covid-20200311-3
-  rows: 52
-  cols: 8
+  rows: 48
+  cols: 7
   type: table
 - path: covid-20200311-4
   name: covid-20200311-4
