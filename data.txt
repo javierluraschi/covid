@@ -743,3 +743,8 @@
   rows: 53
   cols: 7
   type: table
+- path: covid-20200313-5
+  name: covid-20200313-5
+  rows: 46
+  cols: 7
+  type: table
