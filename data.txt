@@ -803,3 +803,8 @@
   rows: 42
   cols: 2
   type: table
+- path: covid-20200315-3
+  name: covid-20200315-3
+  rows: 52
+  cols: 7
+  type: table
