@@ -795,8 +795,8 @@
   type: table
 - path: covid-20200315-1
   name: covid-20200315-1
-  rows: 2
-  cols: 1
+  rows: 42
+  cols: 2
   type: table
 - path: covid-20200315-2
   name: covid-20200315-2
