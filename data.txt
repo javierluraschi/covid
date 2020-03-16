@@ -805,7 +805,7 @@
   type: table
 - path: covid-20200315-3
   name: covid-20200315-3
-  rows: 52
+  rows: 51
   cols: 7
   type: table
 - path: covid-20200315-4
