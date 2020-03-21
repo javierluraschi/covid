@@ -920,6 +920,6 @@
   type: table
 - path: covid-20200320-4
   name: covid-20200320-4
-  rows: 52
+  rows: 54
   cols: 7
   type: table
