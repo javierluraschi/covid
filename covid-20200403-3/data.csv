@@ -6,7 +6,7 @@
 "Nepal","6","1","0","0","Imported cases only","0"
 "Bhutan","5","1","0","0","Imported cases only","0"
 "Timor-Leste","1","0","0","0","Imported cases only","13"
-"","astern Mediterranean Region","","","","",""
+"","Eastern Mediterranean Region","","","","",""
 "Iran (Islamic Republicof)","50468","2875","3160","124","Local transmission","0"
 "Pakistan","2450","159","35","4","Local transmission","0"
 "Saudi Arabia","1885","165","21","5","Local transmission","0"
@@ -18,7 +18,7 @@
 "Bahrain","643","74","4","0","Local transmission","0"
 "Lebanon","508","29","17","5","Local transmission","0"
 "Tunisia","455","32","14","2","Local transmission","0"
-"Kuwait","417","100","0","0","Local transmission","0"
+"Kuwait","417","75","0","0","Local transmission","0"
 "Jordan","299","21","5","0","Local transmission","0"
 "Afghanistan","269","34","5","1","Local transmission","0"
 "Oman","252","21","1","0","Local transmission","0"
@@ -27,9 +27,9 @@
 "Libya","10","0","1","1","Local transmission","2"
 "Sudan","8","1","2","0","Local transmission","0"
 "Somalia","5","0","0","0","Imported cases only","2"
-"","erritories**","","","","",""
+"","Territories**","","","","",""
 "occupied Palestinianterritory","165","31","1","0","Local transmission","0"
-"","egion of the Americas","","","","",""
+"","Region of the Americas","","","","",""
 "United States ofAmerica","213600","26298","4793","947","Local transmission","0"
 "Canada","10114","1109","127","22","Local transmission","0"
 "Brazil","6836","1119","241","40","Local transmission","0"
