@@ -1,0 +1,41 @@
+"V1","V2","V3","V4","V5","V6","V7"
+"Ecuador","4450","703","242","51","CommunityTransmission","0"
+"Peru","2954","393","107","15","CommunityTransmission","0"
+"Mexico","2785","346","141","16","CommunityTransmission","0"
+"Panama","2249","149","59","4","CommunityTransmission","0"
+"Dominican Republic","1956","0","98","0","CommunityTransmission","1"
+"Colombia","1780","201","50","4","CommunityTransmission","0"
+"Argentina","1715","87","60","7","CommunityTransmission","0"
+"Costa Rica","483","16","2","0","Cluster of cases","0"
+"Cuba","457","61","12","1","Cluster of cases","0"
+"Uruguay","424","9","7","1","Cluster of cases","0"
+"Honduras","312","7","22","0","Cluster of cases","0"
+"Bolivia (PlurinationalState of)","210","16","15","1","Cluster of cases","0"
+"Venezuela (BolivarianRepublic of)","166","1","7","0","Cluster of cases","0"
+"Paraguay","119","4","5","0","Cluster of cases","0"
+"Trinidad and Tobago","107","1","8","0","Cluster of cases","0"
+"El Salvador","93","15","5","1","Cluster of cases","0"
+"Guatemala","87","10","3","0","Cluster of cases","0"
+"Barbados","63","3","3","1","Cluster of cases","0"
+"Jamaica","63","4","3","0","Cluster of cases","0"
+"Bahamas","36","3","6","1","Cluster of cases","0"
+"Guyana","33","2","5","0","Cluster of cases","0"
+"Haiti","27","2","1","0","Cluster of cases","0"
+"Antigua and Barbuda","19","4","2","2","Cluster of cases","0"
+"Dominica","15","0","0","0","Cluster of cases","1"
+"Saint Lucia","14","0","0","0","Sporadic Cases","3"
+"Grenada","12","0","0","0","Cluster of cases","4"
+"Saint Kitts and Nevis","11","1","0","0","Sporadic Cases","0"
+"Suriname","10","0","1","0","Sporadic Cases","5"
+"Belize","8","1","1","0","Sporadic Cases","0"
+"Saint Vincent and theGrenadines","8","1","0","0","Sporadic Cases","0"
+"Nicaragua","6","0","1","0","Pending","2"
+"","Territories**","","","","",""
+"Puerto Rico","620","47","24","1","Cluster of cases","0"
+"Martinique","152","1","4","0","Cluster of cases","0"
+"Guadeloupe","139","0","8","1","Cluster of cases","1"
+"French Guiana","77","5","0","0","Cluster of cases","0"
+"Aruba","74","3","0","0","Cluster of cases","0"
+"Cayman Islands","45","6","2","1","Cluster of cases","0"
+"United States VirginIslands","45","2","1","0","Cluster of cases","0"
+"Sint Maarten","40","0","8","0","Sporadic Cases","1"
