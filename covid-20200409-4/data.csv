@@ -1,14 +1,14 @@
 "V1","V2","V3","V4","V5","V6","V7"
 "Greenland","11","0","0","0","Pending","3"
 "","outh-East Asia Region","","","","",""
-"India","5734","540","166","17","CommunityTransmission","0"
-"Indonesia","2956","218","240","19","CommunityTransmission","0"
-"Thailand","2423","54","32","2","CommunityTransmission","0"
-"Bangladesh","218","54","20","3","CommunityTransmission","0"
+"India","5734","540","166","17","Cluster of cases","0"
+"Indonesia","2956","218","240","19","Cluster of cases","0"
+"Thailand","2423","54","32","2","Cluster of cases","0"
+"Bangladesh","218","54","20","3","Cluster of cases","0"
 "Sri Lanka","189","3","7","1","Cluster of cases","0"
 "Myanmar","22","0","3","0","Sporadic Cases","1"
 "Maldives","19","0","0","0","Cluster of cases","6"
-"Nepal","9","0","0","0","Cluster of cases","4"
+"Nepal","9","0","0","0","Sporadic Cases","4"
 "Bhutan","5","0","0","0","Sporadic Cases","6"
 "Timor-Leste","1","0","0","0","Sporadic Cases","19"
 "","astern Mediterranean Region","","","","",""
@@ -39,3 +39,4 @@
 "Canada","18433","1384","401","56","CommunityTransmission","0"
 "Brazil","13717","1661","667","114","CommunityTransmission","0"
 "Chile","5546","430","48","5","CommunityTransmission","0"
+"Ecuador","4450","703","242","51","CommunityTransmission","0"
