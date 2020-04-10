@@ -1,5 +1,4 @@
 "V1","V2","V3","V4","V5","V6","V7"
-"Ecuador","4450","703","242","51","CommunityTransmission","0"
 "Peru","2954","393","107","15","CommunityTransmission","0"
 "Mexico","2785","346","141","16","CommunityTransmission","0"
 "Panama","2249","149","59","4","CommunityTransmission","0"
@@ -39,3 +38,5 @@
 "Cayman Islands","45","6","2","1","Cluster of cases","0"
 "United States VirginIslands","45","2","1","0","Cluster of cases","0"
 "Sint Maarten","40","0","8","0","Sporadic Cases","1"
+"Bermuda","39","0","2","0","Cluster of cases","1"
+"Saint Martin","31","0","2","0","Sporadic Cases","2"
