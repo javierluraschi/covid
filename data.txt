@@ -1593,3 +1593,8 @@
   rows: 1
   cols: 2
   type: table
+- path: covid-20200413-8
+  name: covid-20200413-8
+  rows: 4
+  cols: 2
+  type: table
