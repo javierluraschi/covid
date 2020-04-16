@@ -1670,7 +1670,7 @@
   type: table
 - path: covid-20200415-7
   name: covid-20200415-7
-  rows: 4
+  rows: 1
   cols: 2
   type: table
 - path: covid-20200415-8
