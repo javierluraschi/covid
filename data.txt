@@ -1753,3 +1753,8 @@
   rows: 42
   cols: 7
   type: table
+- path: covid-20200417-8
+  name: covid-20200417-8
+  rows: 29
+  cols: 7
+  type: table
