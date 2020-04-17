@@ -465,7 +465,7 @@
   type: table
 - path: covid-index
   name: covid-index
-  rows: 92
+  rows: 94
   cols: 1
   type: table
 - path: covid-20200229-1
