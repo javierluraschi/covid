@@ -1,0 +1,43 @@
+"V1","V2","V3","V4","V5","V6","V7"
+"Faroe Islands","184","0","0","0","Pending","11"
+"Gibraltar","133","0","0","0","Pending","1"
+"Greenland","11","0","0","0","Pending","13"
+"","South-East Asia Region","","","","",""
+"India","15712","1334","507","27","Clusters of cases","0"
+"Indonesia","6248","325","535","15","Communitytransmission","0"
+"Thailand","2765","32","47","0","Pending","0"
+"Bangladesh","2144","306","84","9","Pending","0"
+"Sri Lanka","254","10","7","0","Clusters of cases","0"
+"Myanmar","107","13","5","0","Clusters of cases","0"
+"Maldives","34","6","0","0","Sporadic cases","0"
+"Nepal","31","1","0","0","Sporadic cases","0"
+"Timor-Leste","19","1","0","0","Sporadic cases","0"
+"Bhutan","5","0","0","0","Sporadic cases","16"
+"","Eastern Mediterranean Region","","","","",""
+"Iran (Islamic Republicof)","80868","1374","5031","73","Communitytransmission","0"
+"Saudi Arabia","8274","1132","92","5","Clusters of cases","0"
+"Pakistan","7993","512","159","16","Clusters of cases","0"
+"United Arab Emirates","6302","0","37","0","Pending","1"
+"Qatar","5008","345","8","1","Pending","0"
+"Egypt","3032","188","224","19","Clusters of cases","0"
+"Morocco","2685","121","137","2","Clusters of cases","0"
+"Bahrain","1773","29","7","0","Clusters of cases","0"
+"Kuwait","1751","93","6","1","Clusters of cases","0"
+"Iraq","1513","31","82","1","Clusters of cases","0"
+"Oman","1266","86","6","0","Clusters of cases","0"
+"Afghanistan","933","25","30","0","Clusters of cases","0"
+"Tunisia","866","2","37","0","Communitytransmission","0"
+"Djibouti","732","0","2","0","Clusters of cases","1"
+"Lebanon","673","5","21","0","Clusters of cases","0"
+"Jordan","413","6","7","0","Clusters of cases","0"
+"Somalia","135","19","7","2","Sporadic cases","0"
+"Sudan","66","33","10","4","Sporadic cases","0"
+"Libya","49","0","1","0","Clusters of cases","2"
+"Syrian Arab Republic","38","0","2","0","Communitytransmission","1"
+"Yemen","1","0","0","0","Pending","8"
+"","Territories**","","","","",""
+"occupied Palestinianterritory","320","7","2","0","Clusters of cases","0"
+"","Region of the Americas","","","","",""
+"United States ofAmerica","695353","30023","32427","2043","Communitytransmission","0"
+"Brazil","33682","3257","2141","217","Communitytransmission","0"
+"Canada","32400","1741","1346","96","Communitytransmission","0"
