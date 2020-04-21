@@ -1873,3 +1873,8 @@
   rows: 4
   cols: 2
   type: table
+- path: covid-20200421-1
+  name: covid-20200421-1
+  rows: 4
+  cols: 2
+  type: table
