@@ -1913,3 +1913,8 @@
   rows: 4
   cols: 2
   type: table
+- path: covid-20200422-1
+  name: covid-20200422-1
+  rows: 46
+  cols: 7
+  type: table
