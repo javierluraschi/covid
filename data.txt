@@ -2008,3 +2008,8 @@
   rows: 45
   cols: 8
   type: table
+- path: covid-20200425-2
+  name: covid-20200425-2
+  rows: 39
+  cols: 7
+  type: table
