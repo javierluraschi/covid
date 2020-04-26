@@ -4,7 +4,7 @@
 "Liechtenstein","83","1","1","0","Pending","0"
 "Monaco","68","0","1","0","Sporadic cases","12"
 "Holy See","9","0","0","0","Sporadic cases","5"
-"","","","","","",""
+"","Territories**","","","","",""
 "Kosovo[1]","731","28","20","1","Communitytransmission","0"
 "Isle of Man","308","0","18","1","Pending","1"
 "Jersey","278","2","19","0","Pending","0"
@@ -12,7 +12,7 @@
 "Faroe Islands","187","0","0","0","Pending","2"
 "Gibraltar","136","3","0","0","Clusters of cases","0"
 "Greenland","11","0","0","0","Pending","20"
-"","","","","","",""
+"","South-East Asia Region","","","","",""
 "India","26496","1990","824","49","Clusters of cases","0"
 "Indonesia","8607","396","720","31","Communitytransmission","0"
 "Bangladesh","4998","309","140","9","Pending","0"
@@ -23,7 +23,7 @@
 "Nepal","49","0","0","0","Sporadic cases","1"
 "Timor-Leste","24","0","0","0","Clusters of cases","2"
 "Bhutan","7","0","0","0","Sporadic cases","3"
-"","","","","","",""
+"","Eastern Mediterranean Region","","","","",""
 "Iran (Islamic Republicof)","89328","1134","5650","76","Communitytransmission","0"
 "Saudi Arabia","16299","1197","136","9","Clusters of cases","0"
 "Pakistan","12723","783","269","16","Clusters of cases","0"
@@ -32,7 +32,7 @@
 "Egypt","4319","227","307","13","Clusters of cases","0"
 "Morocco","3897","139","159","1","Clusters of cases","0"
 "Kuwait","2892","278","19","4","Clusters of cases","0"
-"Bahrain","2589","71","20","12","Clusters of cases","0"
+"Bahrain","2589","71","8","0","Clusters of cases","0"
 "Oman","1998","93","10","0","Clusters of cases","0"
 "Iraq","1763","55","86","0","Clusters of cases","0"
 "Afghanistan","1463","133","49","6","Clusters of cases","0"
