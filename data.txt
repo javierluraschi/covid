@@ -2168,3 +2168,8 @@
   rows: 36
   cols: 7
   type: table
+- path: covid-20200430-3
+  name: covid-20200430-3
+  rows: 44
+  cols: 7
+  type: table
