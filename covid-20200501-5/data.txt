@@ -1,8 +1,8 @@
 path:
 - data.csv
 - data.rds
-rows: 26
-cols: 8
+rows: 3
+cols: 19
 columns:
   V1: character
   V2: character
@@ -12,4 +12,15 @@ columns:
   V6: character
   V7: character
   V8: character
+  V9: character
+  V10: character
+  V11: character
+  V12: character
+  V13: character
+  V14: character
+  V15: character
+  V16: character
+  V17: character
+  V18: character
+  V19: character
 type: table
