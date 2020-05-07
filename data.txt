@@ -2558,3 +2558,8 @@
   rows: 26
   cols: 7
   type: table
+- path: covid-20200507covid-9
+  name: covid-20200507covid-9
+  rows: 26
+  cols: 7
+  type: table
