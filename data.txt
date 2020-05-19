@@ -1840,7 +1840,7 @@
   type: table
 - path: covid-20200420-1
   name: covid-20200420-1
-  rows: 45
+  rows: 44
   cols: 7
   type: table
 - path: covid-20200420-2
