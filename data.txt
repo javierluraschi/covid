@@ -3308,3 +3308,8 @@
   rows: 12
   cols: 1
   type: table
+- path: covid-20200521-2
+  name: covid-20200521-2
+  rows: 23
+  cols: 7
+  type: table
