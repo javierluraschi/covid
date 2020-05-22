@@ -3240,7 +3240,7 @@
   type: table
 - path: covid-20200520-1
   name: covid-20200520-1
-  rows: 19
+  rows: 17
   cols: 1
   type: table
 - path: covid-20200520-2
