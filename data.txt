@@ -3523,3 +3523,8 @@
   rows: 25
   cols: 7
   type: table
+- path: covid-20200524-9
+  name: covid-20200524-9
+  rows: 25
+  cols: 7
+  type: table
