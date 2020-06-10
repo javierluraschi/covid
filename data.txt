@@ -4423,3 +4423,8 @@
   rows: 25
   cols: 7
   type: table
+- path: covid-20200610-12
+  name: covid-20200610-12
+  rows: 21
+  cols: 7
+  type: table
