@@ -4380,8 +4380,8 @@
   type: table
 - path: covid-20200610-3
   name: covid-20200610-3
-  rows: 1
-  cols: 2
+  rows: 24
+  cols: 7
   type: table
 - path: covid-20200610-4
   name: covid-20200610-4
