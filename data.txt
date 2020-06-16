@@ -4430,7 +4430,7 @@
   type: table
 - path: covid-20200611-1
   name: covid-20200611-1
-  rows: 12
+  rows: 11
   cols: 1
   type: table
 - path: covid-20200611-2
