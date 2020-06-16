@@ -4435,8 +4435,8 @@
   type: table
 - path: covid-20200611-2
   name: covid-20200611-2
-  rows: 24
-  cols: 7
+  rows: 5
+  cols: 18
   type: table
 - path: covid-20200611-3
   name: covid-20200611-3
