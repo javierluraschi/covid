@@ -4540,7 +4540,7 @@
   type: table
 - path: covid-20200613-1
   name: covid-20200613-1
-  rows: 12
+  rows: 10
   cols: 1
   type: table
 - path: covid-20200613-2
