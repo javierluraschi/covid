@@ -4818,3 +4818,8 @@
   rows: 24
   cols: 7
   type: table
+- path: covid-20200618-3
+  name: covid-20200618-3
+  rows: 25
+  cols: 7
+  type: table
