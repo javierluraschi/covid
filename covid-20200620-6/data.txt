@@ -1,0 +1,14 @@
+path:
+- data.csv
+- data.rds
+rows: 26
+cols: 7
+columns:
+  V1: character
+  V2: character
+  V3: character
+  V4: character
+  V5: character
+  V6: character
+  V7: character
+type: table
