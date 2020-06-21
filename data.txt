@@ -4920,7 +4920,7 @@
   type: table
 - path: covid-20200620-1
   name: covid-20200620-1
-  rows: 14
+  rows: 11
   cols: 1
   type: table
 - path: covid-20200620-2
