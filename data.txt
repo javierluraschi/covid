@@ -5078,3 +5078,8 @@
   rows: 21
   cols: 7
   type: table
+- path: covid-20200623-1
+  name: covid-20200623-1
+  rows: 13
+  cols: 2
+  type: table
